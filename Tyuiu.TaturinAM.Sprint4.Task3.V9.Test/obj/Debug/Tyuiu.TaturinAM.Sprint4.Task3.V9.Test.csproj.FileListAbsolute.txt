@@ -1,0 +1,17 @@
+C:\Users\Tatur\source\repos\Tyuiu.TaturinAM.Sprint4\Tyuiu.TaturinAM.Sprint4.Task3.V9.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Tatur\source\repos\Tyuiu.TaturinAM.Sprint4\Tyuiu.TaturinAM.Sprint4.Task3.V9.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Tatur\source\repos\Tyuiu.TaturinAM.Sprint4\Tyuiu.TaturinAM.Sprint4.Task3.V9.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Tatur\source\repos\Tyuiu.TaturinAM.Sprint4\Tyuiu.TaturinAM.Sprint4.Task3.V9.Test\bin\Debug\Tyuiu.TaturinAM.Sprint4.Task3.V9.Test.dll
+C:\Users\Tatur\source\repos\Tyuiu.TaturinAM.Sprint4\Tyuiu.TaturinAM.Sprint4.Task3.V9.Test\bin\Debug\Tyuiu.TaturinAM.Sprint4.Task3.V9.Test.pdb
+C:\Users\Tatur\source\repos\Tyuiu.TaturinAM.Sprint4\Tyuiu.TaturinAM.Sprint4.Task3.V9.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Tatur\source\repos\Tyuiu.TaturinAM.Sprint4\Tyuiu.TaturinAM.Sprint4.Task3.V9.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Tatur\source\repos\Tyuiu.TaturinAM.Sprint4\Tyuiu.TaturinAM.Sprint4.Task3.V9.Test\bin\Debug\tyuiu.cources.programming.interfaces.dll
+C:\Users\Tatur\source\repos\Tyuiu.TaturinAM.Sprint4\Tyuiu.TaturinAM.Sprint4.Task3.V9.Test\bin\Debug\Tyuiu.TaturinAM.Sprint4.Task3.V9.Lib.dll
+C:\Users\Tatur\source\repos\Tyuiu.TaturinAM.Sprint4\Tyuiu.TaturinAM.Sprint4.Task3.V9.Test\bin\Debug\Tyuiu.TaturinAM.Sprint4.Task3.V9.Lib.pdb
+C:\Users\Tatur\source\repos\Tyuiu.TaturinAM.Sprint4\Tyuiu.TaturinAM.Sprint4.Task3.V9.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Tatur\source\repos\Tyuiu.TaturinAM.Sprint4\Tyuiu.TaturinAM.Sprint4.Task3.V9.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Tatur\source\repos\Tyuiu.TaturinAM.Sprint4\Tyuiu.TaturinAM.Sprint4.Task3.V9.Test\obj\Debug\Tyuiu.TaturinAM.Sprint4.Task3.V9.Test.csproj.AssemblyReference.cache
+C:\Users\Tatur\source\repos\Tyuiu.TaturinAM.Sprint4\Tyuiu.TaturinAM.Sprint4.Task3.V9.Test\obj\Debug\Tyuiu.TaturinAM.Sprint4.Task3.V9.Test.csproj.CoreCompileInputs.cache
+C:\Users\Tatur\source\repos\Tyuiu.TaturinAM.Sprint4\Tyuiu.TaturinAM.Sprint4.Task3.V9.Test\obj\Debug\Tyuiu.TaturinAM.Sprint4.Task3.V9.Test.csproj.CopyComplete
+C:\Users\Tatur\source\repos\Tyuiu.TaturinAM.Sprint4\Tyuiu.TaturinAM.Sprint4.Task3.V9.Test\obj\Debug\Tyuiu.TaturinAM.Sprint4.Task3.V9.Test.dll
+C:\Users\Tatur\source\repos\Tyuiu.TaturinAM.Sprint4\Tyuiu.TaturinAM.Sprint4.Task3.V9.Test\obj\Debug\Tyuiu.TaturinAM.Sprint4.Task3.V9.Test.pdb
