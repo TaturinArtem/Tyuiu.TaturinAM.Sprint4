@@ -1,0 +1,11 @@
+C:\Users\Антон\Desktop\Tyuiu.TaturinAM.Sprint4\Tyuiu.TaturinAM.Sprint4.Task5.V27\bin\Debug\Tyuiu.TaturinAM.Sprint4.Task5.V27.exe.config
+C:\Users\Антон\Desktop\Tyuiu.TaturinAM.Sprint4\Tyuiu.TaturinAM.Sprint4.Task5.V27\bin\Debug\Tyuiu.TaturinAM.Sprint4.Task5.V27.exe
+C:\Users\Антон\Desktop\Tyuiu.TaturinAM.Sprint4\Tyuiu.TaturinAM.Sprint4.Task5.V27\bin\Debug\Tyuiu.TaturinAM.Sprint4.Task5.V27.pdb
+C:\Users\Антон\Desktop\Tyuiu.TaturinAM.Sprint4\Tyuiu.TaturinAM.Sprint4.Task5.V27\bin\Debug\Tyuiu.TaturinAM.Sprint4.Task5.V27.Lib.dll
+C:\Users\Антон\Desktop\Tyuiu.TaturinAM.Sprint4\Tyuiu.TaturinAM.Sprint4.Task5.V27\bin\Debug\tyuiu.cources.programming.interfaces.dll
+C:\Users\Антон\Desktop\Tyuiu.TaturinAM.Sprint4\Tyuiu.TaturinAM.Sprint4.Task5.V27\bin\Debug\Tyuiu.TaturinAM.Sprint4.Task5.V27.Lib.pdb
+C:\Users\Антон\Desktop\Tyuiu.TaturinAM.Sprint4\Tyuiu.TaturinAM.Sprint4.Task5.V27\obj\Debug\Tyuiu.TaturinAM.Sprint4.Task5.V27.csproj.AssemblyReference.cache
+C:\Users\Антон\Desktop\Tyuiu.TaturinAM.Sprint4\Tyuiu.TaturinAM.Sprint4.Task5.V27\obj\Debug\Tyuiu.TaturinAM.Sprint4.Task5.V27.csproj.CoreCompileInputs.cache
+C:\Users\Антон\Desktop\Tyuiu.TaturinAM.Sprint4\Tyuiu.TaturinAM.Sprint4.Task5.V27\obj\Debug\Tyuiu.TaturinAM.Sprint4.Task5.V27.csproj.CopyComplete
+C:\Users\Антон\Desktop\Tyuiu.TaturinAM.Sprint4\Tyuiu.TaturinAM.Sprint4.Task5.V27\obj\Debug\Tyuiu.TaturinAM.Sprint4.Task5.V27.exe
+C:\Users\Антон\Desktop\Tyuiu.TaturinAM.Sprint4\Tyuiu.TaturinAM.Sprint4.Task5.V27\obj\Debug\Tyuiu.TaturinAM.Sprint4.Task5.V27.pdb
